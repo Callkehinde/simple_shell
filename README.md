@@ -25,4 +25,4 @@ A colon-separated list of directories in which the shell looks for commands. A n
 
 ## Authors
 * Chukwu Godgive <[Lawson](https://github.com/Chukwu-Godgive)> - ALX - Software Engineering Student
-* Abdul-Lateef Gbadamosi <[Callkehinde](https://github.com/Callkehinde)> - ALX - Software Engineering Student
+* Abdul-Lateef Gbadamosi <[Kehinde](https://github.com/Callkehinde)> - ALX - Software Engineering Student
